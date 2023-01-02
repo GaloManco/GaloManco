@@ -9,11 +9,14 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/php-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
  </div>
  <br>
  <br>
- <img  height="300em" src="https://activity-graph.herokuapp.com/graph?username=GaloManco&theme=gotham&hide_border=true&area=true"/>
+ <img  height="300em" src="https://activity-graph.herokuapp.com/graph?username=GaloManco&theme=gotham&hide_border=true&area=true" />
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=GaloManco&color=green" alt="Profile views" /> </p>
 <div align="center">
     <a href="https://github.com/vinizer4">
