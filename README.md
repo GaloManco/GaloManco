@@ -1,4 +1,4 @@
-### My name is Jonas Franco 👋
+###Jonas Batista de Oliveira Franco 👋
 
 
 <div style="display: inline_block">
@@ -9,6 +9,7 @@
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="" height="40em" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/php-original.svg">
  </div>
  <br>
  <br>
