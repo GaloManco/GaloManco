@@ -24,7 +24,7 @@
 ![Jonas Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=GaloManco&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaloManco&layout=compact&langs_count=8&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Skill Tecnologia. 🚀
+### Skill Tecnologias na qual já tive contato. 🚀
 <div style="display: inline_block"><br>
 
 <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
