@@ -1,10 +1,11 @@
-### - 🖐️(o_o) Olá! Eu sou o Jonas Franco. 🚀
+### - 🖐️(õ_õ) Olá! Eu sou o Jonas Franco. 🚀
 <div>
 
-    Bem vindo comunidade a minha página no GitHub.<br>
-    Meu nome é Jonas sou estudade de Análise e Desenvolvimento de Sistema, espero poder ajudalo com meus commits.<br>
-    Logo a baixo você poderá acompanha toda minha evolução nessa jornada de desenvolvedor, minhas liguagens prediletas e todas as tecnoligas que tenho estudado para ser um bom DEV.<br>
-    Desavios seram sempre bem vindos!
+    Bem vindo comunidade a minha página no GitHub.
+    Meu nome é Jonas sou estudade de Análise e Desenvolvimento de Sistema, espero poder ajudalo com meus commits.
+    Logo a baixo você poderá acompanha toda minha evolução nessa jornada de desenvolvedor, minhas liguagens prediletas
+    e todas as tecnoligas que tenho estudado para ser um bom DEV.
+    Desavios serão sempre bem vindos!
 
 
 </div>
